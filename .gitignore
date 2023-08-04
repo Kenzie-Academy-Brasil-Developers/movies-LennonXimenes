@@ -1,0 +1,6 @@
+node_modules
+*lock*
+rascunho
+.env
+manipulacao_de_tabela.sql
+manipulacao_de_dados.sql
